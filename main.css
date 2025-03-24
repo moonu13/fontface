@@ -1,0 +1,52 @@
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('https://raw.githubusercontent.com/moonu13/fontface/refs/heads/main/SF-Pro-Display-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('https://raw.githubusercontent.com/moonu13/fontface/refs/heads/main/SF-Pro-Display-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('https://raw.githubusercontent.com/moonu13/fontface/refs/heads/main/SF-Pro-Display-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('https://raw.githubusercontent.com/moonu13/fontface/refs/heads/main/SF-Pro-Display-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('https://raw.githubusercontent.com/moonu13/fontface/refs/heads/main/SF-Pro-Display-Black.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('https://raw.githubusercontent.com/moonu13/fontface/refs/heads/main/SF-Pro-Display-Heavy.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SF Arabic Rounded';
+  src: url('https://raw.githubusercontent.com/moonu13/fontface/refs/heads/main/SFArabicRounded-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'SF Pro Display', 'SF Arabic Rounded', sans-serif;
+}
