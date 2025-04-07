@@ -1,3 +1,49 @@
+/* builder sans styles nyaaa */
+
+@font-face {
+  font-family: 'BuilderSans';
+  src: url('BuilderSans-Light-300.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BuilderSans';
+  src: url('BuilderSans-Regular-400.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BuilderSans';
+  src: url('BuilderSans-Medium-500.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BuilderSans';
+  src: url('BuilderSans-SemiBold-600.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BuilderSans';
+  src: url('BuilderSans-Bold-700.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BuilderSans';
+  src: url('BuilderSans-ExtraBold-800.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+/* sf pro display styles nyaaa */
+
 @font-face {
   font-family: 'SF Pro Display';
   src: url('https://raw.githubusercontent.com/moonu13/fontface/refs/heads/main/SF-Pro-Display-Regular.otf') format('opentype');
@@ -40,13 +86,11 @@
   font-style: normal;
 }
 
+/* sf arabic too mew */
+
 @font-face {
   font-family: 'SF Arabic Rounded';
   src: url('https://raw.githubusercontent.com/moonu13/fontface/refs/heads/main/SFArabicRounded-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
-}
-
-body {
-  font-family: 'SF Pro Display', 'SF Arabic Rounded', sans-serif;
 }
